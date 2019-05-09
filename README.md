@@ -51,7 +51,7 @@
 1. `open` [http://localhost:3000/](http://localhost:3000)
 
 ## application guide
-`free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
+`simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
 
 ## roadmap
 
