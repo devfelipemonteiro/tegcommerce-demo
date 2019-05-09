@@ -57,7 +57,7 @@
 
 ### in progress
 * single-page app
-* progressive web app
+* pwa
 * byos (bring your own server)
 * shopping cart
 * product registration
