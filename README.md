@@ -8,7 +8,7 @@
 
 <div class="badges-holder">
   
-  <a href="https://join.slack.com/t/tegcommerce/shared_invite/enQtNjE3MzkwNDYyMDM5LWU4MmRiNTM4ZGQxMzc3MTNmOTAwMDczNWVhMTdiNGM2M2IxYjI1M2JmNDlkMDM5MDY4M2ZhYzQ3Y2ViYTY3MDU">
+  <a href="https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI">
 	  <img src="https://img.shields.io/badge/slack-tegcommerce-green.svg?style=flat-square">
   </a>
 	<a href="https://github.com/tegcommerce/tegcommerce/blob/master/LICENSE">
