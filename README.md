@@ -40,6 +40,7 @@
 * nodejs (> = 8.x)
 * reactjs
 * graphql
+* mongodb
 
 ## installation
 1. `make sure you have installed` [nodejs](https://nodejs.org/en/download/) 
