@@ -39,7 +39,6 @@
 * npm (> = 5.x)
 * nodejs (> = 8.x)
 * reactjs
-* graphql
 
 ## installation
 1. `make sure you have installed` [nodejs](https://nodejs.org/en/download/) 
