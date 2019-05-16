@@ -44,8 +44,8 @@ thank you for your help in making tegcommerce even better!
 
 ## interact with the community
 
-[github](https://www.github.com/tegcommerce)
-[slack](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+[github](https://www.github.com/tegcommerce)<br />
+[slack](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)<br />
 [telegram](http://t.me/tegcommerce)
 
 ## license
