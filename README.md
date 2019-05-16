@@ -39,6 +39,7 @@
 * npm (> = 5.x)
 * nodejs (> = 8.x)
 * reactjs
+* redux
 * postgresql
 
 ## installation
