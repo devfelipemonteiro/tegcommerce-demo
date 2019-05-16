@@ -38,8 +38,6 @@ if you don't feel comfortable forking the project or using git, you can also eit
 
 remember if: contributions are always welcome, no matter how large or small
 
-__note:__ if there's a feature you'd like, there's a bug you'd like to fix, or you'd just like to get involved please raise an issue and start a conversation. we'll help as much as we can so you can get contributing - although we may not always be able to respond right away :)
-
 thank you for your help in making tegcommerce even better!
 
 ## interact with the community
