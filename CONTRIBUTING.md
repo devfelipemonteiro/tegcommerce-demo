@@ -27,18 +27,18 @@ contributors should follow the following process:
 3. clone your fork to your local machine
 4. create a branch in your local clone for your changes
 5. change the files in your branch
-6. push your changed branch to your fork in your GitHub account
+6. push your changed branch to your fork in your github account
 7. create a pull request for your changes on the tegcommerce project
 8. wait for one of the core developers either to include your change in the codebase, or to comment on possible improvements you should make to your code
 
 that's it: you have contributed to this open source project! congratulations!
 
-If you don't feel comfortable forking the project or using git, you can also either:
+if you don't feel comfortable forking the project or using git, you can also either:
 * edit a file directly within github: browse to the target file, click the "edit" button, make your changes in the editor then click on "propose file change". github will automatically create a new fork and branch on your own github account, then suggest to create a pull request to tegcommerce. once the pull request is submitted, you just have to wait for a core developer to answer you
 
 remember if: contributions are always welcome, no matter how large or small
 
-__note:__ If there's a feature you'd like, there's a bug you'd like to fix, or you'd just like to get involved please raise an issue and start a conversation. we'll help as much as we can so you can get contributing - although we may not always be able to respond right away :)
+__note:__ if there's a feature you'd like, there's a bug you'd like to fix, or you'd just like to get involved please raise an issue and start a conversation. we'll help as much as we can so you can get contributing - although we may not always be able to respond right away :)
 
 thank you for your help in making tegcommerce even better!
 
