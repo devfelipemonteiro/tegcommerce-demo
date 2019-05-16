@@ -16,14 +16,14 @@ there are many ways to contribute to the tegcommerce project!
 - creating issues
 - interacting with the community
 
-If you wish to contribute within github, you should ideally be familiar with git, the source code management system that tegcommerce uses, with the official repository being hosted on github:
+if you wish to contribute within github, you should ideally be familiar with git, the source code management system that tegcommerce uses, with the official repository being hosted on github:
 * you can learn more about git here: http://try.github.io/ (there are many tutorials available on the Web)
 * you can get help on github here: https://help.github.com/
 * windows users can get a nice interface for git by installing tortoisegit: https://tortoisegit.org/
 
 contributors should follow the following process:
 1. create your github account, if you do not have one already
-2. Fork the tegcommerce project to your github account
+2. fork the tegcommerce project to your github account
 3. clone your fork to your local machine
 4. create a branch in your local clone for your changes
 5. change the files in your branch
