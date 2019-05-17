@@ -4,7 +4,7 @@
   </a>
 </p>
 <h3 align="center">tegcommerce</h3>
-<h4 align="center">open source e-commerce platform javascript full stack with reactjs and nodejs</h4>
+<h4 align="center">Open source e-commerce platform javascript full stack with reactjs and nodejs</h4>
 
 <div class="badges-holder">
   
@@ -34,108 +34,108 @@
 	</a>
   </div>
 
-## requirement
+## Requirement
 * git
 * npm (> = 5.x)
 * nodejs (> = 8.x)
-* reactjs
-* redux
-* postgresql
+* Reactjs
+* Redux
+* Postgresql
 
-## installation
-1. `make sure you have installed` [nodejs](https://nodejs.org/en/download/) 
+## Installation
+1. `Make sure you have installed` [nodejs](https://nodejs.org/en/download/) 
 1. `git clone git@github.com:tegcommerce/tegcommerce`
 1. `cd tegcommerce`
 1. `sudo npm install`
 1. `sudo npm start`
-1. `open` [http://localhost:3000/](http://localhost:3000)
+1. `Open` [http://localhost:3000/](http://localhost:3000)
 
-## application guide
+## Application guide
 `simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
 
-## roadmap
+## Roadmap
 
-### in progress
-* single-page app
-* progressive web app
-* byos (bring your own server)
-* shopping cart
-* product registration
-* admin dashboard
-* marketplace with themes and plugins
-* chat
-* integration with erp platforms
-* integration with crm platforms
-* integration with marketplace platforms
-* integration with classified platforms
-* integration with delivery service companies
-* integration with payment intermediaries
-* integration with hosting companies
-* integration with affiliate platforms
-* integration with social networks
-* integration with google services
-* integration with facebook services
-* api for plugins
-* spam blocker
-* search filter products
-* product recommendation
-* content block editor
+### In progress
+* Single-page app
+* Progressive web app
+* Byos (bring your own server)
+* Shopping cart
+* Product registration
+* Admin dashboard
+* Marketplace with themes and plugins
+* Chat
+* Integration with erp platforms
+* Integration with crm platforms
+* Integration with marketplace platforms
+* Integration with classified platforms
+* Integration with delivery service companies
+* Integration with payment intermediaries
+* Integration with hosting companies
+* Integration with affiliate platforms
+* Integration with social networks
+* Integration with google services
+* Integration with facebook services
+* Api for plugins
+* Spam blocker
+* Search filter products
+* Product recommendation
+* Content block editor
 
-### planned
-* affiliate
-* dropshipping
-* transparent checkout
-* one page checkout
-* power checkout
-* freight calculator
-* order tracking
-* e-mail marketing
-* qr code
-* crm system
-* erp system
-* conversational commerce with chat and chatbot
-* vr commerce with virtual reality and augmented virtual reality
-* network of stores on a single tegcommerce installation
-* integrated backup system with cloud storage services
-* prevent brute force password discovery
-* app with fingerprint biometrics
-* app with voice biometrics
-* app with image biometrics
-* voice search
-* image search
-* hosting
-* domain
-* ssl certificate
-* cdn
-* blockchain
+### Planned
+* Affiliate
+* Dropshipping
+* Transparent checkout
+* One page checkout
+* Power checkout
+* Freight calculator
+* Order tracking
+* E-mail marketing
+* QR Code
+* CRM System
+* ERP System
+* Conversational commerce with chat and chatbot
+* VR commerce with virtual reality and augmented virtual reality
+* Network of stores on a single tegcommerce installation
+* Integrated backup system with cloud storage services
+* Prevent brute force password discovery
+* App with fingerprint biometrics
+* App with voice biometrics
+* App with image biometrics
+* Voice search
+* Image search
+* Hosting
+* Domain
+* SSL certificate
+* CDN
+* Blockchain
 
-## community
+## Community
 
-any collaboration will be welcome
+Any collaboration will be welcome!
 
-are part of the community
-* [developers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI) at all levels and in all areas
-* [devops](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [designers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [translators](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [event organizers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [communicators and digital influencers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [buyers and sellers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [lawyers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
-* [others](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+Are part of the community:
+* [Developers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI) at all levels and in all areas
+* [Devops](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Designers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Translators](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Event organizers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Communicators and digital influencers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Buyers and sellers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Lawyers](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
+* [Others](https://join.slack.com/t/tegcommerce/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
 
-ideal for those who want
+Ideal for those who want:
 
-* collaborate when and where you want
-* collaborate on open source project that positively impact the world
-* meet different people and participate in a plural and tolerant world-class team
-* learn, develop and excel personally and professionally
+* Collaborate when and where you want
+* Collaborate on open source project that positively impact the world
+* Meet different people and participate in a plural and tolerant world-class team
+* Learn, develop and excel personally and professionally
 
-## documentation
-check out [tegcommerce documentation](https://tegcommerce.org/documentation/)
+## Documentation
+Check out [tegcommerce documentation](https://tegcommerce.org/documentation/)
 
-## license
+## License
 tegcommerce is released under the terms of the [mit license](https://opensource.org/licenses/MIT)
 
-## credit
-we thank our core team davimonteiro, devfelipemonteiro, adamwairdev, bradlincoln, christie201, jameselbourn, loubrazier, michaelminarwa, richardlond, rudysing, setkinanne, and other incredible collaborators
+## Credit
+We thank our core team davimonteiro, devfelipemonteiro, felipenoka, adamwairdev, bradlincoln, christie201, jameselbourn, loubrazier, michaelminarwa, richardlond, rudysing, setkinanne and other incredible collaborators.
