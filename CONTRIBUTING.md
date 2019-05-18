@@ -10,8 +10,9 @@ there are many ways to contribute to the tegcommerce project!
 - answering questions on [telegram](https://t.me/tegcommerce)
 - answering questions on [slack](https://tegcommerce.slack.com/join/shared_invite/enQtNjIzNDYxNTU4OTYwLWE2YTkxODg1ZDQxMDljMjAzNmVmNTNiOWFkOWZiNDk3NzcxZTQ0YjU4MDkxOTJlZDgzOGUzOTExYzUzNTFhYjI)
 - submitting fixes, updates, improvements, and enhancements in the code
-- submitting fixes, updates, improvements, and enhancements in the website
+- submitting fixes, updates, improvements, and enhancements in the [website](https://github.com/tegcommerce/tegcommerce-website)
 - submitting fixes, updates, improvements, and enhancements in the documentation
+- submitting fixes, updates, improvements, and enhancements in the [wiki](https://github.com/tegcommerce/tegcommerce-wiki)
 - recruiting members to the core team
 - creating issues
 - interacting with the community
