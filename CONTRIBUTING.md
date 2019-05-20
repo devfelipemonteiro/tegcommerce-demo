@@ -40,6 +40,9 @@ remember if: contributions are always welcome, no matter how large or small
 
 thank you for your help in making tegcommerce even better!
 
+## application guide
+`simple` `free` `open` `everyone` `transparent` `decentralized` `collaborative` `inclusive` `minimalistic` `lean` `clear` `mean` `responsive` `progressive` `lifetime` `adaptable` `customizable` `light` `installable` `secure` `friendly` `intuitive` `integrated` `direct` `objective` `specialized` `focused` `basic` `clean` `automated` `cheap` `economic` `easy` `practical` `convenient` `innovate` `useful` `updated` `agile` `reasonable` `proportional` `meritocracy`
+
 ## interact with the community
 
 [github](https://www.github.com/tegcommerce)<br />
